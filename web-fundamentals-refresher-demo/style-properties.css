@@ -1,15 +1,15 @@
 /* style properties */
 div {
   background: crimson;
-  color: grey;
+  color: red;
   font-family: Helvetica;
-  font-size: 18px;
+  font-size: 20px;
   cursor: pointer;
 }
 
 /* layout properties */
 div {
-  width: 10%;
+  width: 20%;
   height: 20%;
   margin: 10px; 
   padding: 20px;
